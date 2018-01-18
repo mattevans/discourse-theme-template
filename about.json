@@ -1,0 +1,13 @@
+{
+    "name": "The name of your theme",
+    "about_url": "http://example.com/about",
+    "license_url": "http://example.com/license",
+    "assets": {
+        "font": "assets/font.woff2"
+    },
+    "color_schemes": {
+        "Your Scheme Name": {
+            "primary": "000000"
+        }
+    }
+}
